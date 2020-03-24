@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "12345",
-    "database": "database_development",
+    "database": "orderan",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorsAliases": false
@@ -16,10 +16,10 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "postgres",
-    "password": "12345 ",
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "hlhcimljvayuhz",
+    "password": "636ea2ca6863c94bde4fa54cdbaec24d41053902e52ef628519b45512fe4746e",
+    "database": "d4pcgm1ljgdtlh",
+    "host": "ec2-52-73-247-67.compute-1.amazonaws.com",
     "dialect": "postgres",
     "operatorsAliases": false
   }
